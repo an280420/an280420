@@ -6,9 +6,8 @@
 
 #### My CV: [click](https://an280420.github.io/cv/)
 
-#### My Contacts:
- [![Telegram: Ant_RoR](https://img.shields.io/badge/-Telegram-white?style=flat&logo=telegram&logoColor=black&link=https://t.me/Ant_RoR)](https://t.me/Ant_RoR/) [![email: gmail](https://img.shields.io/badge/-Email-white?style=flat&logo=gmail&logoColor=0076D6&link=antonnekrasov82@gmail.com)](antonnekrasov82@gmail.com)
-
+#### My Contact: 
+[![Telegram: Ant_RoR](https://img.shields.io/badge/-Telegram-white?style=flat&logo=telegram&logoColor=black&link=https://t.me/Ant_RoR)](https://t.me/Ant_RoR/)
 
 #### 🔧 Technologies & Tools
 
