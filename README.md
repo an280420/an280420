@@ -9,12 +9,16 @@
 #### 📫 Contacts
 
 [![Telegram: Ant_RoR](https://img.shields.io/badge/-Ant_RoR-white?style=flat&logo=telegram&logoColor=black&link=https://t.me/Ant_RoR)](https://t.me/Ant_RoR/)
+[![email: antonnekrasov82@gmail.com](https://img.shields.io/badge/-antonnekrasov82@gmail.com-white?style=flat&logo=gmail&logoColor=black&link=https:antonnekrasov82@gmail.com)](antonnekrasov82@gmail.com)
+
+
 
 #### 🔧 Technologies & Tools
+![Ruby](https://img.shields.io/badge/Ruby-3F3F3F?style=for-the-badge&logo=ruby)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Editors-Sublime_Text-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/DB-PostgreSQL_|_SQL-informational?style=flat&logo=postgresql&logoColor=white&color=0076D6)
+![Linux](https://img.shields.io/badge/Linux-3F3F3F?style=for-the-badge&logo=linux)
+![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=for-the-badge&logo=ruby&logoColor=white&color=0076D6)
+![Rails](https://img.shields.io/badge/Framework-Rails-informational?style=for-the-badge&logo=rubyonrails&logoColor=white&color=0076D6)
+![VSCode](https://img.shields.io/badge/Editors-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/DB-PostgreSQL_|_SQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=0076D6)
