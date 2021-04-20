@@ -1,5 +1,4 @@
-### header
-[![Header](https://github.com/an280420/an280420/blob/main/assets/tty.gif)]
+![Header](https://github.com/an280420/an280420/blob/main/assets/tty.gif)
 
 ### Hi👋 I'm Anton
 <p><em>Ruby/Ruby on Rails developer <img src="https://repository-images.githubusercontent.com/30962390/724e5100-9833-11e9-8add-73a6c5956c4b" width="20">
