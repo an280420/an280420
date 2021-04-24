@@ -4,7 +4,7 @@
 <span> I`m Ruby / Ruby on Rails developer  <img src="https://repository-images.githubusercontent.com/30962390/724e5100-9833-11e9-8add-73a6c5956c4b" width="20">
 </span>
 
-#### My CV: [click](https://an280420.github.io/cv/)
+#### My CV: [click](https://an280420.github.io/CV/)
 
 #### My Contact: 
 [![Telegram: Ant_RoR](https://img.shields.io/badge/-Telegram-white?style=flat&logo=telegram&logoColor=black&link=https://t.me/Ant_RoR)](https://t.me/Ant_RoR/)
